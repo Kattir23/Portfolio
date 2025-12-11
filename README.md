@@ -20,4 +20,4 @@ A small project demonstrating how to use media queries for responsive design.
 ## 🔹 Live Website
 After deploying, paste your live URL here:
 
-👉 **Live URL:** https://yourusername.github.io/portfolio/
+👉 **Live URL:** https://github.com/Kattir23/Portfolio
