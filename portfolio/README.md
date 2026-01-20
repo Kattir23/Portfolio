@@ -8,10 +8,9 @@ This is my personal portfolio website built with:
 
 ## Features
 
-- About Me I am an app and web development student focused on professionalism, originality, and the quality of each of my projects.
-
-- Projects section
-- Contact section
+- About Me 
+- Projects 
+- Contact 
 
 ## How to run
 
